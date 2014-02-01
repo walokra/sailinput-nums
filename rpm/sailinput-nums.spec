@@ -1,11 +1,11 @@
-Name: nums-en-fi
+Name: sailinput-nums
 Version: 0.1
 Release: 1%{?dist}
 Summary: Combined number and keys layout and input method for Sailfish OS
 Group: Accessibility
 License: MIT
 Source:    %{name}-%{version}.tar.gz
-URL:    http://ruleoftech.com/lab/numsenfi
+URL:    http://ruleoftech.com/lab/sailinput-nums
 Requires:   jolla-keyboard
 
 %description
